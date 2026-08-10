@@ -1,4 +1,4 @@
-I am currently a Ph.D. student in [the Department of Statistics and Data Science]((https://www.sta.cuhk.edu.hk/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/), under the supervision of Professor [Yingxin Lin](https://yingxinlin.github.io/). Prior to this, I received my B.Sc. degree with First Class Honours in Statistics from CUHK in 2026 (Stream: Statistical Learning and Data Mining Stream).
+I am currently a Ph.D. student in [the Department of Statistics and Data Science](https://www.sta.cuhk.edu.hk/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/), under the supervision of Professor [Yingxin Lin](https://yingxinlin.github.io/). Prior to this, I received my B.Sc. degree with First Class Honours in Statistics from CUHK in 2026 (Stream: Statistical Learning and Data Mining Stream).
 
 My research interests lie in statistical methodology and its applications to biomedical data science. 
 
