@@ -5,7 +5,7 @@ My research interests lie in statistical methodology and its applications to bio
 # 📖 Educations
 - *2026.08 – Present*, Doctor of Philosophy in Statistics, The Chinese University of Hong Kong (CUHK), Hong Kong. 
 - *2022.09 - 2026.07*, Bachelor of Science in Statistics, The Chinese University of Hong Kong (CUHK), Hong Kong.
-- *2025.01 - 2025.05*, Exchange Student, Washington University in St. Louis, St. Louis, MO, USA.
+- *2025.01 - 2025.05*, Exchange Student, Washington University in St. Louis (WUSTL), St. Louis, MO, USA.
  
 # 📝 Publications 
 
