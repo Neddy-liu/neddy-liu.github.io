@@ -2,35 +2,28 @@ I am currently a Ph.D. student in [the Department of Statistics and Data Science
 
 My research interests lie in statistical methodology and its applications to biomedical data science. 
 
-# 📖 Educations
+# 📖 Education
 - *2026.08 – Present*, Doctor of Philosophy in Statistics, The Chinese University of Hong Kong (CUHK), Hong Kong. 
 - *2022.09 - 2026.07*, Bachelor of Science in Statistics, The Chinese University of Hong Kong (CUHK), Hong Kong.
 - *2025.01 - 2025.05*, Exchange Student, Washington University in St. Louis (WUSTL), St. Louis, MO, USA.
- 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.07* Faculty of Science Dean's List, CUHK. 
+- *2026.02* Vice-Chancellor’s PhD Scholarship, CUHK.
+- *2025.06* Reaching Out Award, HKSAR.
+- *2025.05* Academic Excellence Scholarship, Faculty of Science, CUHK.
+- *2024.11* Department of Statistics Scholarship, CUHK.
+- *2024.10* Faculty of Science Exchange Scholarship, CUHK.
+- *2024.04* Department of Statistics Scholarship, CUHK.
+- *2024.07* Faculty of Science Dean's List, CUHK. 
 
+# 🧑‍🏫 Teaching
+# 📝 Publications 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Work Experience
+- *2025.06-2025.08*, Credit Risk and Risk Management Intern, [Lenovo](https://www.lenovo.com/), China.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📧 Contact
+- Email: honghaoliu@link.cuhk.edu.hk
+- Address: 139, Lady Shaw Building, CUHK
+- Phone: 3943 7950
