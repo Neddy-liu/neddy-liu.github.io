@@ -1,7 +1,4 @@
 main:
-  - title: "Homepage"
-    url: "#top"
-
   - title: "Education"
     url: "#-education"
 
