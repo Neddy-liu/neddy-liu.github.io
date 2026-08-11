@@ -4,11 +4,32 @@ title: Home
 permalink: /
 ---
 
-欢迎来到我的个人主页！
+I am currently a Ph.D. student in [the Department of Statistics and Data Science](https://www.sta.cuhk.edu.hk/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/), under the [...]
 
-这是网站的根主页（/）。你可以点击下面的链接访问其他页面：
+My research interests lie in statistical methodology and its applications to biomedical data science. 
 
-- 关于: [About](/about/)
-- 联系: [Contact](/contact/)
+# 📖 Education
+- *2026.08 – Present*, Doctor of Philosophy in Statistics, The Chinese University of Hong Kong (CUHK), Hong Kong. 
+- *2022.09 - 2026.07*, Bachelor of Science in Statistics, The Chinese University of Hong Kong (CUHK), Hong Kong.
+- *2025.01 - 2025.05*, Exchange Student, Washington University in St. Louis (WUSTL), St. Louis, MO, USA.
 
-如果你想把首页内容改为中文/英文简介或添加照片/最近文章，我可以再更新。
+# 🎖 Honors and Awards
+- *2026.07* Faculty of Science Dean's List, CUHK. 
+- *2026.02* Vice-Chancellor’s PhD Scholarship, CUHK.
+- *2025.06* Reaching Out Award, HKSAR.
+- *2025.05* Academic Excellence Scholarship, Faculty of Science, CUHK.
+- *2024.11* Department of Statistics Scholarship, CUHK.
+- *2024.10* Faculty of Science Exchange Scholarship, CUHK.
+- *2024.06* Department of Statistics Scholarship, CUHK.
+- *2024.06* Faculty of Science Dean's List, CUHK. 
+
+# 🧑‍🏫 Teaching
+# 📝 Publications 
+
+# 💻 Work Experience
+- *2025.06-2025.08*, Credit Risk and Risk Management Intern, [Lenovo](https://www.lenovo.com/), China.
+
+# 📧 Contact
+- Email: honghaoliu@link.cuhk.edu.hk
+- Address: 139, Lady Shaw Building, CUHK
+- Phone: 3943 7950
