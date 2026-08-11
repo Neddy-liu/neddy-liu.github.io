@@ -1,3 +1,22 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 I am currently a Ph.D. student in [the Department of Statistics and Data Science](https://www.sta.cuhk.edu.hk/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/), under the supervision of Professor [Yingxin Lin](https://yingxinlin.github.io/). Prior to this, I received my B.Sc. degree with First Class Honours in Statistics from CUHK in 2026 (Stream: Statistical Learning and Data Mining).
 
 My research interests lie in statistical methodology and its applications to biomedical data science. 
