@@ -22,7 +22,7 @@ I am currently a Ph.D. student in [the Department of Statistics and Data Science
 My research interests lie in statistical methodology and its applications to biomedical data science. 
 
 # 📖 Education
-- *2026.08 – Present*, Doctor of Philosophy in Statistics, The Chinese University of Hong Kong (CUHK), Hong Kong. 
+- *2026.08 - Present*, Doctor of Philosophy in Statistics, The Chinese University of Hong Kong (CUHK), Hong Kong. 
 - *2022.09 - 2026.07*, Bachelor of Science in Statistics, The Chinese University of Hong Kong (CUHK), Hong Kong.
 - *2025.01 - 2025.05*, Exchange Student, Washington University in St. Louis (WUSTL), St. Louis, MO, USA.
 
@@ -40,7 +40,7 @@ My research interests lie in statistical methodology and its applications to bio
 # 📝 Publications 
 
 # 💻 Work Experience
-- *2025.06-2025.08*, Credit Risk and Risk Management Intern, [Lenovo](https://www.lenovo.com/), China.
+- *2025.06 - 2025.08*, Credit Risk and Risk Management Intern, [Lenovo](https://www.lenovo.com/), China.
 
 # 📧 Contact
 - Email: honghaoliu@link.cuhk.edu.hk
