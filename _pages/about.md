@@ -14,8 +14,8 @@ My research interests lie in statistical methodology and its applications to bio
 - *2025.05* Academic Excellence Scholarship, Faculty of Science, CUHK.
 - *2024.11* Department of Statistics Scholarship, CUHK.
 - *2024.10* Faculty of Science Exchange Scholarship, CUHK.
-- *2024.04* Department of Statistics Scholarship, CUHK.
-- *2024.07* Faculty of Science Dean's List, CUHK. 
+- *2024.06* Department of Statistics Scholarship, CUHK.
+- *2024.06* Faculty of Science Dean's List, CUHK. 
 
 # 🧑‍🏫 Teaching
 # 📝 Publications 
