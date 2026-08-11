@@ -3,16 +3,19 @@ main:
     url: "#top"
 
   - title: "Education"
-    url: "#education"
+    url: "#-education"
 
   - title: "Honors and Awards"
-    url: "#honors-and-awards"
+    url: "#-honors-and-awards"
+    
+  - title: "Publications"
+    url: "#-publications"
 
   - title: "Teaching"
-    url: "#teaching"
+    url: "#-teaching"
 
   - title: "Work Experience"
-    url: "#work-experience"
+    url: "#-work-experience"
 
   - title: "Contact"
-    url: "#contact"
+    url: "#-contact"
