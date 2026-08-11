@@ -43,6 +43,6 @@ My research interests lie in statistical methodology and its applications to bio
 - *2025.06 - 2025.08*, Credit Risk and Risk Management Intern, [Lenovo](https://www.lenovo.com/), China.
 
 # 📧 Contact
-- Email: honghaoliu@link.cuhk.edu.hk
+- Email: honghaoliu[at]link.cuhk.edu.hk
 - Address: 139, Lady Shaw Building, CUHK
 - Phone: 3943 7950
