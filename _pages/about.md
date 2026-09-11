@@ -26,19 +26,6 @@ My research interests lie in statistical methodology and its applications to bio
 - *2022.09 - 2026.07*, Bachelor of Science in Statistics, The Chinese University of Hong Kong (CUHK), Hong Kong.
 - *2025.01 - 2025.05*, Exchange Student, [Washington University in St. Louis (WUSTL)](https://washu.edu/), St. Louis, MO, USA.
 
-# 🎖 Honors and Awards
-- *2026.07* Faculty of Science Dean's List, CUHK. 
-- *2026.02* Vice-Chancellor’s PhD Scholarship, CUHK.
-- *2025.06* Reaching Out Award, HKSAR.
-- *2025.05* Academic Excellence Scholarship, Faculty of Science, CUHK.
-- *2024.11* Department of Statistics Scholarship, CUHK.
-- *2024.10* Faculty of Science Exchange Scholarship, CUHK.
-- *2024.06* Department of Statistics Scholarship, CUHK.
-- *2024.06* Faculty of Science Dean's List, CUHK. 
-
-# 🧑‍🏫 Teaching
-# 📝 Publications 
-
 # 💻 Work Experience
 - *2025.06 - 2025.08*, Credit Risk and Risk Management Intern, [Lenovo](https://www.lenovo.com/), China.
 
